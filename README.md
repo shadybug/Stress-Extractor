@@ -1,2 +1,2 @@
 # Stress-Extractor
-An OSC program which outputs a "stress" value based on heart rate and palm moisture
+An OSC program which outputs a "stress" value based on heart rate and palm moisture. Runs on Arduino and Processing, and requires one Grove [finger clip heart rate sensor](https://www.seeedstudio.com/s/heart%20rate%20sensor.html) and one Grove [moisture sensor](https://www.seeedstudio.com/Grove-Moisture-Sensor-p-955.html), as well as something to attach them to the Arduino board.
